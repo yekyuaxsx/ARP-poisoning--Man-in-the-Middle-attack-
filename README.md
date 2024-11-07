@@ -1,0 +1,2 @@
+# ARP poisoning (Man-in-the-Middle attack)
+ This Python script performs ARP (Address Resolution Protocol) poisoning, a type of Man-in-the-Middle (MitM) attack. ARP poisoning allows an attacker to intercept or manipulate traffic between devices in a local network. The tool works by sending false ARP responses to the target device and the gateway, redirecting the network traffic through the attacker's machine.
